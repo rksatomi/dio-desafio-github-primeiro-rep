@@ -39,3 +39,4 @@ Repositório criado para o desafio de Projeto sobre Git/Github
 
 **Primeiros passos com .NET**
 - [Editor - Visual Studio Code](https://code.visualstudio.com/)
+- [Artigos](https://eximia.co/category/fundamentos/)
