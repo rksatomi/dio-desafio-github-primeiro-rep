@@ -1,0 +1,15 @@
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\bin\Debug\net6.0\colecoes.exe
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\bin\Debug\net6.0\colecoes.deps.json
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\bin\Debug\net6.0\colecoes.runtimeconfig.json
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\bin\Debug\net6.0\colecoes.dll
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\bin\Debug\net6.0\ref\colecoes.dll
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\bin\Debug\net6.0\colecoes.pdb
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\obj\Debug\net6.0\colecoes.csproj.AssemblyReference.cache
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\obj\Debug\net6.0\colecoes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\obj\Debug\net6.0\colecoes.AssemblyInfoInputs.cache
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\obj\Debug\net6.0\colecoes.AssemblyInfo.cs
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\obj\Debug\net6.0\colecoes.csproj.CoreCompileInputs.cache
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\obj\Debug\net6.0\colecoes.dll
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\obj\Debug\net6.0\ref\colecoes.dll
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\obj\Debug\net6.0\colecoes.pdb
+E:\Workspace\DIO\dio-desafio-github-primeiro-rep\BootCampLocaliza\colecoes\colecoes\obj\Debug\net6.0\colecoes.genruntimeconfig.cache
